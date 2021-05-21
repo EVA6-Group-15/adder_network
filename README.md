@@ -1,6 +1,6 @@
 # SUM(MNIST, Random Number) Detector
 
-### [Click to Try it out on Google Colab](https://colab.research.google.com/drive/1wy1GrFeDH6lZaXXtrv9StP6VumBqSeNp?usp=sharing)
+### [View Notebook](Notebooks/MNIST_RandomNumber.ipynb)
 
 ## Objective
 A Neural Netwrok which 
