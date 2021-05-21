@@ -110,5 +110,7 @@ Test set: Average loss: 0.4751, Accuracy1: 9924/10000 (99%), Accuracy2: 9248/100
 
 ### MNIST + Random Number SUM Accuracy -> **92.5%**
 
+## Collaborators: 
+Syed Abdul Khader, Varsha Raveendran, Kushal Gandhi, Kaustubh Harapanahalli
 
-### *Personal Thanks to Google Colab for providing such a wonderful service for training models on GPU for FREE!*
+##### *Personal Thanks to Google Colab for providing such a wonderful service for training models on GPU for FREE!*
