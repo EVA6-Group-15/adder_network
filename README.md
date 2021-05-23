@@ -77,7 +77,7 @@ The basic Accuracy evaluation was performed.
 
 Where we count the correct MNIST Images Predicted and also the correct sum of MNIST and Random Number predicted is calculated separatly, is divided by total number of images present.
 
-For more precise, accuracy, confusion matrix could have been used to udnerstand which class was having lower accuracy, and to know False Postives and False Negatives, but the accuracy metric was good enough keeping in mind the **dataset is balanced** with same number of Images and Numbers of each class
+For more precise, accuracy, confusion matrix could have been used to understand which class was having lower accuracy, and to know False Postives and False Negatives, but the accuracy metric was good enough keeping in mind the **dataset is balanced** with same number of Images and Numbers of each class
 
 #### Training Log
 epoch: 1  
